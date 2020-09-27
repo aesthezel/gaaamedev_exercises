@@ -1,6 +1,11 @@
 ﻿/*
     gAAAmedev - Ejercicio #1
     Variables y su uso
+    ---
+    Realizado por David <Aesthezel> Pino
+    hola@aesthezel.site
+    ---
+    El contenido debe ser utilizado para fines académicos
 */
 
 using System;   // Libreras
