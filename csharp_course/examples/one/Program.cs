@@ -1,9 +1,9 @@
-﻿/*
+﻿/**
     gAAAmedev - Ejercicio #1
     Variables y su uso
     ---
-    Realizado por David <Aesthezel> Pino
-    hola@aesthezel.site
+    @autor David <Aesthezel> Pino
+    @see gAAAmedev
     ---
     El contenido debe ser utilizado para fines académicos
 */
@@ -19,7 +19,7 @@ namespace one   // Conjunto de trabajo
             // Variables más comunes
             int integrerNumber = 1;         // Una variable de tipo entero de 32bits
             float singleDecimal = 3.3f;     // Variable de tipo flotante simple (soporta decimales)
-            string wordText = "Hello";      // Contenedor de texto, se necesitan usar comillas dobles "" rodeando el texto
+            string wordText = "Hola";      // Contenedor de texto, se necesitan usar comillas dobles "" rodeando el texto
             bool working = false;           // Son prácticamente un interruptor que te indica si es verdadero o falso
 
             Console.WriteLine("Bienvenidos a gAAAmedev\nA continuación, usaremos las variables antes propuestas...");
