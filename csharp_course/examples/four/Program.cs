@@ -12,6 +12,15 @@ using System;
 
 namespace four
 {
+    public class Greetings
+    {
+        public void SayHi()
+        {
+            Console.WriteLine("Soy el ejercicio número 4 de gAAAmedev");
+        }
+    }
+
+
     class Program
     {
         static void Main(string[] args)

@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "..\\examples\\four"
+		},
+		{
+			"path": "..\\examples\\five"
 		}
 	]
 }
