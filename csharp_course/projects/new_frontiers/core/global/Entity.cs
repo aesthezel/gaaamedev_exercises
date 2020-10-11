@@ -1,5 +1,7 @@
 using System;
 
+// WIP: Variable de generos
+
 namespace new_frontiers
 {
     public class Entity

@@ -7,7 +7,7 @@ namespace new_frontiers
     {
         public List<Entity> entities = new List<Entity>();
 
-        public void CreateNewEntity(string name, int age, float weight, float height, Entity.Type type)
+        public void AddEntity(string name, int age, float weight, float height, Entity.Type type)
         {
             Entity newEntity = new Entity();
             newEntity.SetEntity(name, age, weight, height, type);
