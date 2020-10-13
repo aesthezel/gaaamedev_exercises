@@ -6,7 +6,7 @@ namespace new_frontiers
     {
         string _consoleTag = "[EntityManager]";
         EntitiesDB entitiesDB = new EntitiesDB();
-        
+
         public void CreateEntity(string name, int age, float weight, float height, int type)
         {
             switch(type)

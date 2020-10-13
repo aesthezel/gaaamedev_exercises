@@ -12,7 +12,7 @@ namespace new_frontiers
             eMan.CreateEntity("David", 24, 65.5f, 1.8f, 0);
             eMan.CreateEntity("Marley", 20, 50.2f, 1.55f, 0);
             eMan.CreateEntity("Rebecca", 22, 58.3f, 1.4f, 1);
-            eMan.GetEntity("Marley");
+            eMan.GetEntity("Roberto");
         }
     }
 }
