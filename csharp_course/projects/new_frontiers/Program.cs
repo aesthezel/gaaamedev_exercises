@@ -9,10 +9,19 @@ namespace new_frontiers
         {
             //EntitiesDB eDB = new EntitiesDB();
             EntityManager eMan = new EntityManager();
-            eMan.CreateEntity("David", 24, 65.5f, 1.8f, 0);
-            eMan.CreateEntity("Marley", 20, 50.2f, 1.55f, 0);
-            eMan.CreateEntity("Rebecca", 22, 58.3f, 1.4f, 1);
-            eMan.GetEntity("Roberto");
+
+            Console.WriteLine("¡Bienvenido a New Frontiers!");
+            Console.WriteLine("Dime tu nombre");
+            string name = Console.ReadLine();
+            Console.WriteLine("Dime tu edad");
+            int age = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Dime tu peso");
+            float weight = Convert.ToSingle(Console.ReadLine());
+            Console.WriteLine("Dime tu estatura");
+            float height = Convert.ToSingle(Console.ReadLine());
+
+            eMan.CreateEntity(name, age, weight, height, 0);
+            eMan.GetEntity(name);
         }
     }
 }
