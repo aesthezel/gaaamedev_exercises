@@ -1,5 +1,5 @@
 ﻿/**
-    gAAAmedev - Ejercicio #4
+    gAAAmedev - Ejercicio #5
     For & Foreach
     ---
     @autor David <Aesthezel> Pino
@@ -17,11 +17,11 @@ namespace five
     {
         static void Main(string[] args)
         {
-            int laps = 10;
+            int laps = 10; // Vueltas que hará
 
-            int topLaps = 0;
-            int[] lapsHighestVelocity = {290, 230, 250, 260, 270, 295, 280, 233, 246, 225}; // Array de enteros
-            int velocity = 0;
+            int topLaps = 0; // Las mejores vueltas
+            int[] lapsHighestVelocity = {290, 230, 250, 260, 270, 295, 280, 233, 246, 225}; // Array de enteros, con las mejores vueltas
+            int velocity = 0; // Contenedor para las velocidades
 
             /* 
                 Estructura base de un For:

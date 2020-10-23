@@ -1,3 +1,13 @@
+/**
+    gAAAmedev - Ejercicio #6
+    Práctica: Dado
+    ---
+    @autor David <Aesthezel> Pino
+    @see gAAAmedev
+    ---
+    El contenido debe ser utilizado para fines académicos
+*/
+
 using System;
 
 namespace six

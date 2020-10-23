@@ -17,6 +17,15 @@
 		},
 		{
 			"path": "..\\examples\\six"
+		},
+		{
+			"path": "..\\examples\\seven"
+		},
+		{
+			"path": "..\\examples\\eight"
+		},
+		{
+			"path": "..\\examples\\nine"
 		}
 	]
 }

@@ -1,4 +1,14 @@
-﻿using System;
+﻿/**
+    gAAAmedev - Ejercicio #7
+    Rompiendo iteraciones
+    ---
+    @autor David <Aesthezel> Pino
+    @see gAAAmedev
+    ---
+    El contenido debe ser utilizado para fines académicos
+*/
+
+using System;
 
 namespace seven
 {

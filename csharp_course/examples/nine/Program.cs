@@ -1,4 +1,14 @@
-﻿using System;
+﻿/**
+    gAAAmedev - Ejercicio #9
+    Por determinar
+    ---
+    @autor David <Aesthezel> Pino
+    @see gAAAmedev
+    ---
+    El contenido debe ser utilizado para fines académicos
+*/
+
+using System;
 
 namespace nine
 {
