@@ -50,9 +50,10 @@ namespace five
             }
             Console.WriteLine("\nSe ha finalizado la carrera");
 
+                    // Identificador I.     // Contenedor
             foreach (var highestLap in lapsHighestVelocity)
             {
-                topLaps++;
+                topLaps++; // La primera vuelta esto valdrá 1
                 Console.WriteLine("En la vuelta {0} la mejor velocidad registrada es de {1}Km/H", topLaps, highestLap);
             }
         }
