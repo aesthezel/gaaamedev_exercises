@@ -1,6 +1,6 @@
 ﻿/**
     gAAAmedev - Ejercicio #9
-    Por determinar
+    Prueba de Git
     ---
     @autor David <Aesthezel> Pino
     @see gAAAmedev
@@ -16,12 +16,13 @@ namespace nine
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            for (int i = 0; i < 10; i++)
+            Console.WriteLine("Este documento es una prueba de Git y GitAhead");
+
+            for (int i = 0; i < 3; i++)
             {
-                if (i == 6)
+                if (i == 2)
                 {   
-                    Console.WriteLine("¡Estoy en la sexta iteración!");
+                    Console.WriteLine("Bienvenidos al uso de Git");
                     break;
                 }
             }
